@@ -1,0 +1,21 @@
+body {
+    background-image: radial-gradient(circle, #050167, #091676, #102884, #183891, #22489e, #0e5aa9, #076cb0, #1d7cb6, #3e8fb5, #65a1b3, #8cb0b4, #b3bebd);
+ }
+.titulo_importante{ 
+    color: rgb(216, 225, 252);
+    font-size: 100px;
+    text-align: center;
+}
+#parrafos{
+    text-align: center;
+    background-color:rgb(216, 225, 252);
+    font-size: 20px;
+}
+
+#titulo_chiquito{
+    color: rgb(216, 225, 252);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+
